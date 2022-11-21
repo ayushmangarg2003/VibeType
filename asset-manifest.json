@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VibeTypeApp/static/css/main.15276886.css",
+    "main.js": "/VibeTypeApp/static/js/main.414504bd.js",
+    "static/media/hero.png": "/VibeTypeApp/static/media/hero.08fca933d824eb04d5b8.png",
+    "index.html": "/VibeTypeApp/index.html",
+    "main.15276886.css.map": "/VibeTypeApp/static/css/main.15276886.css.map",
+    "main.414504bd.js.map": "/VibeTypeApp/static/js/main.414504bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15276886.css",
+    "static/js/main.414504bd.js"
+  ]
+}
