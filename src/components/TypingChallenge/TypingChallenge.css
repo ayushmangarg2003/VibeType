@@ -66,3 +66,16 @@
     background: #e9e7e4;
     padding: 15px;
 }
+
+@media screen and (max-width: 600px) {
+  .textarea-container {
+    flex-direction: column;
+  }
+  .textarea-left,
+  .textarea-right {
+    width: 100%;
+  }
+  .textarea {
+    height: 330px;
+  }
+}
